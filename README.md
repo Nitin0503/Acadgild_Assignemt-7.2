@@ -1,4 +1,4 @@
-# Acadgild_Assignemt-7.2
+# Acadgild_Assignment-7.2
 Problem Statement
 
 1. Write a program to create barplots for all the categorical columns in mtcars.
